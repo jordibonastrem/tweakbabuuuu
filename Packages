@@ -1,0 +1,16 @@
+Package: com.flame.flamefixer
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: flame
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.flame.flamefixer_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4076
+MD5sum: c72a2eeabb161de9c5f5bbbe22319793
+SHA1: 839b1c2b916099107a156931f4eee98c0eb2b86b
+SHA256: 6c23632536ea53b9fc61069b5ce7c46590086f1cfc9d2f51c5298bae32f1b1ec
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: flame
+Name: FlameFixer
+
